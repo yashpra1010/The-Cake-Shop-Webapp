@@ -1,8 +1,0 @@
-@charset "ISO-8859-1";
-.admin .card {
-	border:1px solid #ff4562;
-}
-.admin .card:hover {
-	background:#ffbac5;
-	cursor: pointer;	
-}
